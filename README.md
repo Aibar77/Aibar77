@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning programming and explore more tools for that purpose.
 - 🌱 I’m currently learning Javascript and Python.
 - 💞️ I’m looking to collaborate on pet projects and learning together on that hard journey.
-- 📫 How to reach me my email is: mambetaibar@gmail.com
+
 
 <!---
 Aibar77/Aibar77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
